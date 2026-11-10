@@ -1,0 +1,6 @@
+{
+  "name": "Lin Lae Moe Htet | Profile & Social Hub",
+  "description": "Personal profile and digital portfolio featuring verified direct social media links, background information, projects, and contact channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
